@@ -1,0 +1,10 @@
+{
+	"types": {
+		"GMS.sand_red": "Red Sand",
+		"GMS.sand_blue": "Blue Sand",
+		"GMS.sand_green": "Green Sand"
+	}
+	//"typeuses": {
+	//	"GMS.sand_red": "Some fancy windows to make your builds look nicer"
+	//}
+}

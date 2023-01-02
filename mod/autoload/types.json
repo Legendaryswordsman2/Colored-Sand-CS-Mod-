@@ -1,0 +1,38 @@
+{
+  "GMS.sand_red": {
+    "categories": [
+      "decorative",
+        "sand"
+    ],
+    "icon": "./textures/icons/sand_red.png",
+    "maxStackSize": 200,
+    "color": "#8b3426",
+    "onPlaceAudio": "dirtPlace",
+    "onRemoveAudio": "grassDelete",
+    "sideall": "sand"
+  },
+  "GMS.sand_blue": {
+    "categories": [
+      "decorative",
+      "sand"
+    ],
+    "icon": "./textures/icons/sand_blue.png",
+    "maxStackSize": 200,
+    "color": "#1520ff",
+    "onPlaceAudio": "dirtPlace",
+    "onRemoveAudio": "grassDelete",
+    "sideall": "sand"
+  },
+  "GMS.sand_green": {
+    "categories": [
+      "decorative",
+      "sand"
+    ],
+    "icon": "./textures/icons/sand_green.png",
+    "maxStackSize": 200,
+    "color": "#4e9a42",
+    "onPlaceAudio": "dirtPlace",
+    "onRemoveAudio": "grassDelete",
+    "sideall": "sand"
+  }
+}
