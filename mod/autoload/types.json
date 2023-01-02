@@ -18,7 +18,7 @@
     ],
     "icon": "./textures/icons/sand_blue.png",
     "maxStackSize": 200,
-    "color": "#1520ff",
+    "color": "#4EA7FF",
     "onPlaceAudio": "dirtPlace",
     "onRemoveAudio": "grassDelete",
     "sideall": "sand"

@@ -1,6 +1,6 @@
 [
 	{
-		"cooldown": 300.0,
+		"cooldown": 100.0,
 		"defaultLimit": 2,
 		"name": "GMS.dyer.sand_red",
 		"requires": [
@@ -23,7 +23,7 @@
 		"sortWeight": 313470
 	},
 	{
-		"cooldown": 300.0,
+		"cooldown": 100.0,
 		"defaultLimit": 2,
 		"name": "GMS.dyer.sand_green",
 		"requires": [
@@ -50,7 +50,7 @@
 		"sortWeight": 313470
 	},
 	{
-		"cooldown": 300.0,
+		"cooldown": 100.0,
 		"defaultLimit": 2,
 		"name": "GMS.dyer.sand_blue",
 		"requires": [
