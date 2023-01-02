@@ -1,0 +1,75 @@
+[
+	{
+		"cooldown": 300.0,
+		"defaultLimit": 2,
+		"name": "GMS.dyer.sand_red",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "sand"
+			},
+			{
+				"amount": 100,
+				"type": "hollyhock"
+			}
+		],
+		"requiresScience": "pipliz.dyeing",
+		"results": [
+			{
+				"amount": 1,
+				"type": "GMS.sand_red"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 300.0,
+		"defaultLimit": 2,
+		"name": "GMS.dyer.sand_green",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "sand"
+			},
+			{
+				"amount": 50,
+				"type": "alkanet"
+			},
+			{
+				"amount": 50,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "pipliz.dyeing",
+		"results": [
+			{
+				"amount": 1,
+				"type": "GMS.sand_green"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 300.0,
+		"defaultLimit": 2,
+		"name": "GMS.dyer.sand_blue",
+		"requires": [
+			{
+				"amount": 5,
+				"type": "sand"
+			},
+			{
+				"amount": 100,
+				"type": "alkanet"
+				}
+		],
+		"requiresScience": "pipliz.dyeing",
+		"results": [
+			{
+				"amount": 1,
+				"type": "GMS.sand_blue"
+			}
+		],
+		"sortWeight": 313470
+	}
+]

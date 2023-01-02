@@ -21,6 +21,12 @@
 			{
 				"fileType": "addOrOverrideLocalization",
 				"relativePath": "./autoload/localization/en-US.json"
+			},
+			{
+				"fileType": "addOrReplaceNPCRecipes",
+				"index": -1000000,
+				"npcType": "pipliz.dyer",
+				"relativePath": "./autoload/recipes_dyer.json"
 			}
 		]
 	}
